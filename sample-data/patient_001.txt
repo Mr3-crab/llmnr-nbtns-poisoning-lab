@@ -1,0 +1,10 @@
+Patient Name: John Doe
+DOB: 1985-04-12
+Patient ID: EHR-10234
+Diagnosis: Hypertension
+Ward: 3B
+Attending Physician: Dr. A. Hlaing
+Last Visit: 2026-09-15
+Notes: Routine follow-up, blood pressure stable on current medication.
+
+[FICTIONAL SAMPLE DATA - created for an isolated lab demonstration only. Not real patient information.]

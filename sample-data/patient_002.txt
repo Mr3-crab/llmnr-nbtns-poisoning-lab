@@ -1,0 +1,10 @@
+Patient Name: Jane Smith
+DOB: 1990-09-02
+Patient ID: EHR-10567
+Diagnosis: Diabetes Type 2
+Ward: 5A
+Attending Physician: Dr. K. Mo
+Last Visit: 2026-09-28
+Notes: Prescribed Metformin 500mg, scheduled for HbA1c recheck in 3 months.
+
+[FICTIONAL SAMPLE DATA - created for an isolated lab demonstration only. Not real patient information.]
